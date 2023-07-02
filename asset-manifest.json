@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Patrika/static/css/main.9c072a33.css",
+    "main.js": "/Patrika/static/js/main.7f7fbd4b.js",
+    "index.html": "/Patrika/index.html",
+    "main.9c072a33.css.map": "/Patrika/static/css/main.9c072a33.css.map",
+    "main.7f7fbd4b.js.map": "/Patrika/static/js/main.7f7fbd4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c072a33.css",
+    "static/js/main.7f7fbd4b.js"
+  ]
+}
